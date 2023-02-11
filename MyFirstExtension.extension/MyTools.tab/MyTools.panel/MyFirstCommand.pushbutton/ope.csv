@@ -1,0 +1,987 @@
+Id,Code,Description,Service,Workset,Wall,Structural,Bearing
+22179013,,PRECAST,,BIMMS_HIDDEN,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22179707,GF.WL.345,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22180275,GF.WL.354,PRECAST,Other,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22181459,GF.WL.357,PRECAST,Piping,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22183413,GF.WL.036,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22184029,GF.WL.095,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22184858,GF.WL.103,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22185109,GF.WL.101,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22185130,GF.WL.100,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22193788,01.WL.099,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_M1DE,No,Non-bearing
+22194065,01.WL.103,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_M1DE,No,Non-bearing
+22406301,,PLASTBOARD,,BIMMS_HIDDEN,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+22407690,,PLASTBOARD,,BIMMS_HIDDEN,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+22407838,,PLASTBOARD,,BIMMS_HIDDEN,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+22408221,,PLASTBOARD,,BIMMS_HIDDEN,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+22408223,,PLASTBOARD,,BIMMS_HIDDEN,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+22416395,GF.WL.323,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+22416424,GF.WL.319,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+22416426,,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+22416445,GF.WL.335,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22416602,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22416729,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22416810,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22416842,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22416851,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22416990,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22417024,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22417231,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22417366,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22417670,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22417858,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22420181,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22420431,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22445708,GF.WL.450,Concrete Wall,Cold Water,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22450003,GF.WL.212,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22450111,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22450247,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_10_Tile_10x30,No,Non-bearing
+22450257,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22450871,GF.WL.068,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22451645,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22454718,GF.WL.116,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22454785,GF.WL.114,PRECAST,Cable Containment,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22454794,GF.WL.115,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22455633,GF.WL.384,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22456476,GF.WL.065,PRECAST,Piping,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22457169,GF.WL.391,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22457180,GF.WL.394,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22457578,GF.WL.387,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22458064,GF.WL.400,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+22459259,,PLASTBOARD,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22471983,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22477991,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22478006,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22478019,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22478027,,Concrete Wall,Piping,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22478029,,Concrete Wall,Piping,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22478041,,Concrete Wall,Duct,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22478051,,Concrete Wall,Duct,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22481692,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22487409,GF.WL.071,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22487413,GF.WL.070,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22487416,GF.WL.072,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22487422,GF.WL.056,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22487426,GF.WL.057,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22487429,GF.WL.053,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22488487,GF.WL.054,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22488591,GF.WL.055,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+22489794,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22489821,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22490751,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22490753,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22490756,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22490758,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22490760,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22490766,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490773,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490776,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490781,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490922,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490956,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490976,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22490992,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22491056,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22491072,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22491100,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22493149,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22493214,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22494024,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22494923,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22495127,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22495698,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22507921,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22508772,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22508935,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22551976,01.SL.129,Floor open,Shaft,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+22585151,GF.WL.237,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22586000,,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22586026,,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22586046,GF.WL.238,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22586065,GF.WL.239,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22586646,GF.WL.227,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22586656,GF.WL.228,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22586777,,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22587123,GF.WL.218,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22587140,GF.WL.221,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22587659,GF.WL.288,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22588366,GF.WL.274,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22588478,GF.WL.275,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22588547,GF.WL.278,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22588589,GF.WL.280,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22589936,GF.WL.272,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22590436,GF.WL.305,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22590547,GF.WL.303,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22590631,GF.WL.189,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+22590657,GF.WL.187,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+22592983,GF.WL.271,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22593156,GF.WL.245,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22593164,GF.WL.240,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22594660,GF.WL.191,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22594670,GF.WL.192,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22600887,GF.WL.273,Gypsum Board,Drainage Condensate,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22600975,GF.WL.200,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+22601040,GF.WL.199,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+22601049,,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+22601059,GF.WL.201,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+22602787,GF.WL.284,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+22603345,GF.WL.282,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+22603549,GF.WL.225,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+22603978,GF.WL.224,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+22605817,GF.WL.250,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22605838,GF.WL.252,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22605884,GF.WL.251,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606245,GF.WL.261,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606337,GF.WL.254,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606453,GF.WL.255,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606502,GF.WL.257,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606578,,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606613,GF.WL.256,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22606649,GF.WL.258,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22607590,GF.WL.263,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22607600,GF.WL.265,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22607628,GF.WL.266,Gypsum Board,Drainage Condensate,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22608085,GF.WL.269,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22608215,GF.WL.267,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22608319,GF.WL.268,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22699245,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22699360,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22699439,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22701630,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22702286,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22702777,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22704525,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22705591,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22705892,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22705894,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22706693,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+22707059,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+22707068,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+22707083,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+22710696,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22711956,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22713458,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22714167,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+22717806,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22717995,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22718169,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22718211,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22719025,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22719033,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22719111,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22719188,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+22719361,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22719867,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22719968,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720022,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720427,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720445,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720453,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720461,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720473,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720530,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720553,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22720947,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22721056,,,,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22721474,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22721729,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22721737,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+22721830,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+22721832,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+22721840,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+22721841,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+22721842,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+22721843,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+22725292,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_S2AA,No,Non-bearing
+22770070,GF.WL.091,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+22923286,GF.WL.244,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+22978664,GF.WL.291,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+22988518,GF.WL.299,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22989653,GF.WL.295,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22989857,GF.WL.296,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+22991425,GF.WL.303,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+22991460,GF.WL.304,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23007024,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23007057,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23191779,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23191780,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23191781,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23191783,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23192412,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23195521,GF.WL.401,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+23195674,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23197824,,PLASTBOARD,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23197849,,PLASTBOARD,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23197850,,PLASTBOARD,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23197914,,PLASTBOARD,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23201655,GF.WL.313,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+23204710,GF.WL.315,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+23205183,GF.WL.318,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+23205773,GF.WL.336,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23206995,GF.WL.213,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23208231,GF.WL.231,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23208251,GF.WL.232,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23208595,GF.WL.242,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+23208633,GF.WL.241,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+23208667,GF.WL.249,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23208746,GF.WL.260,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23208794,GF.WL.248,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23209283,GF.WL.264,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23209508,,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23209678,GF.WL.276,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23209897,GF.WL.293,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23210037,GF.WL.205,Gypsum Board,Drainage Condensate,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23211330,GF.WL.190,Gypsum Board,Drainage Condensate,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23214975,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23214982,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23214984,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23214987,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23214988,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23214992,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23214994,GF.WL.067,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CE,No,Non-bearing
+23214998,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23215028,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23215034,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23217095,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23217118,,PLASTBOARD,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23225508,GF.WL.210,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23228040,GF.WL.202,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23233385,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23233468,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23235073,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23238020,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23238023,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BH,No,Non-bearing
+23238026,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BH,No,Non-bearing
+23239993,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23243764,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23243767,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23243772,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23243774,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23243777,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23252728,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23309569,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23309838,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23322552,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322559,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322562,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322564,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322566,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322568,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322570,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322572,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23322574,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23323879,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23323897,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324194,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324215,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324241,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324377,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324402,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324418,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324447,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324483,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324510,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324547,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324577,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324615,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324769,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324794,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324823,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324836,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324846,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324871,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324883,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324897,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324924,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324937,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324966,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324987,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23324997,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325014,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325027,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325038,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325053,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325071,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325136,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325158,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325175,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325296,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325298,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325299,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325410,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325423,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325438,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325448,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325456,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325956,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325978,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23325995,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326016,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326028,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326035,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326059,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326103,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326133,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326161,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326234,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326251,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326264,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326292,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326310,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326339,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326352,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326429,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326496,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326541,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326565,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326586,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326732,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23326970,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23327405,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23329358,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329360,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329669,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329670,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329695,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329696,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329760,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329796,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329821,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23329853,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23330512,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23330632,GF.WL.033,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23330694,GF.WL.342,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23357069,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23363660,GF.WL.083,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23371981,GF.WL.220,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23373211,GF.WL.290,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23373254,GF.WL.289,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23383971,GF.WL.233,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23391766,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23400442,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23400969,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23401097,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23401189,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23403647,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23403767,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23404297,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23404424,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23404526,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23405078,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23405155,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23405275,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23405588,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23405823,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23405947,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23406004,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23406448,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23406574,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23406708,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407209,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407245,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407309,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407341,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407405,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407435,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407599,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407688,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407798,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407891,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407893,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23407970,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408055,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408130,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408234,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408286,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408330,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408345,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408373,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408411,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408425,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408427,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23408472,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23408553,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23408606,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23408724,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23408836,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23408888,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23408964,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23409010,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23409196,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23409353,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23409410,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23409517,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23409707,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23410981,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23411268,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23411389,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23411416,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23411515,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23411622,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23411850,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412395,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412463,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412480,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412613,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412696,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412736,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23412757,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23413664,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23413822,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414072,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414074,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414122,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23414124,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23414141,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414261,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414460,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414561,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23414678,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+23417835,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417837,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417839,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417840,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417842,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417844,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417846,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417855,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23417857,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23418010,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_S2AA,No,Non-bearing
+23419541,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23420183,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23420209,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23420305,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23420374,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23420404,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23420985,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23421106,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23421597,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23421828,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23421920,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23421935,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23422249,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23422925,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423118,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423222,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423265,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423285,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423434,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423474,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423476,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423523,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423538,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423562,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23423595,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23424028,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23424251,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23424973,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23425191,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23425748,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23425928,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S2BA,No,Non-bearing
+23426004,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23426114,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23426116,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23427265,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_S2AA,No,Non-bearing
+23428309,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23428401,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23428484,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23429123,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23429157,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23429231,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23434307,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23434368,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23434419,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23434449,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S2BA,No,Non-bearing
+23434605,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23434703,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23434725,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23434784,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23434801,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23439645,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23439824,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23440107,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23440136,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23440206,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23440405,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23440574,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23440576,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23440745,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441037,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441065,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441185,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441218,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441244,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441336,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441374,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+23441431,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23441660,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23441704,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23441729,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23441823,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23441846,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23441904,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23441972,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23442014,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23442287,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23442332,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23442617,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23442957,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23443087,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23443726,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23444582,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23445257,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23445961,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23446215,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23446368,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23447011,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23447455,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23448694,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23448954,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23448980,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23449622,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23449955,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+23450214,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+23450252,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+23450286,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Glazing Wall Interior_INT.7.01,No,Non-bearing
+23450430,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23450591,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451094,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451119,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451160,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451305,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451343,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451478,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23451755,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23451878,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23451918,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23452080,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23452105,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23452788,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23452924,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23453088,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23455877,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23455879,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23455881,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23455883,01.386,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23455884,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456062,01.387,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456183,01.388,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456284,01.389,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456385,01.390,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456419,01.391,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456438,01.392,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456464,01.393,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456510,01.394,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456538,01.395,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456592,01.396,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456611,01.397,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23456660,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23457884,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23458085,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23458795,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23458831,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23459248,01.401,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23462910,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23462913,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23463012,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23466455,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23466730,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23466949,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23467676,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23467820,01.403,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23467920,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468075,01.404,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468214,01.405,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468229,01.406,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468242,01.407,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468255,01.408,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468269,01.409,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468282,01.410,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468291,01.411,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23468302,01.412,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23473603,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+23473621,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23473624,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23473893,01.413,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23473919,01.414,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+23496564,01.415,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BG,No,Non-bearing
+23507954,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23509713,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23510223,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23510313,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23510315,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23510409,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23510440,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23510505,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23511537,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23511630,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23511681,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23511775,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23511886,,PLASTBOARD,Piping,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23511928,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23513050,01.416,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AA,No,Non-bearing
+23515069,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23515397,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23515476,01.417,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23515551,01.418,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23515574,01.419,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23515959,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516025,01.420,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516042,01.421,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516079,01.422,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516102,01.423,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516121,01.424,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516145,01.425,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516169,01.426,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516198,01.427,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516216,01.428,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516229,01.429,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516247,01.430,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516262,01.431,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516292,01.432,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516309,01.433,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516374,01.434,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516417,01.435,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23516533,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517013,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517099,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517330,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517462,01.436,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517487,01.437,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517513,01.438,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517537,01.439,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517575,01.440,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517592,01.441,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517606,01.442,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517626,01.443,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517638,01.444,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517662,01.445,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517683,01.446,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517695,01.447,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517708,01.448,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517761,01.449,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517815,01.450,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517834,01.451,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517847,01.452,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517929,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23517993,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518023,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518141,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518145,01.453,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518147,01.454,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518150,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518154,01.455,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518156,01.456,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518160,01.457,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518165,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518168,01.458,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518170,01.459,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518172,01.460,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518174,01.461,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518659,01.462,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518661,01.463,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518662,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518664,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518667,01.464,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518669,01.465,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518671,01.466,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518673,01.467,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518675,01.468,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518677,01.469,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518679,01.470,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518681,01.471,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518683,01.472,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518685,01.473,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518687,01.474,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518689,01.475,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518690,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518692,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518694,,PLASTBOARD,????,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23518911,,PLASTBOARD,Cable Containment,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519050,,PLASTBOARD,Duct,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519090,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519332,01.476,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519389,01.477,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519410,01.478,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519427,01.479,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519547,01.480,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519577,01.481,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519595,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519794,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23519825,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520167,01.482,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520269,01.483,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520283,01.484,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520303,01.485,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520397,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520463,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23520814,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521031,01.486,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521077,01.487,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521091,01.488,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521132,01.489,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521193,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521275,01.490,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521365,01.491,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521376,01.492,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521414,01.493,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521629,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23521631,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522077,01.494,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522120,01.495,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522171,01.496,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522180,01.497,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522218,01.498,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522231,01.499,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522243,01.500,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522341,01.501,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522362,01.502,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522374,01.503,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522394,01.504,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522438,01.505,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522472,01.506,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522510,01.507,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522544,01.508,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522553,01.509,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522565,01.510,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522605,01.511,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23522623,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23523139,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23523193,,PLASTBOARD,Fire,BIMMS_OPE'S_WORKSHEET,22_RHD_Interior Metal Grill Cladding Wall_variable,No,Non-bearing
+23540643,GF.WL.010,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23540707,GF.WL.016,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23542344,GF.WL.024,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23544553,GF.WL.358,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23545092,GF.WL.102,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23545591,GF.WL.411,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23545608,GF.WL.092,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23549235,GF.WL.094,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23549237,GF.WL.412,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23552068,GF.WL.343,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23552313,GF.WL.344,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90A_M1DA,Yes,Bearing
+23565866,01.WL.033,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23565883,01.WL.037,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23569514,GF.WL.048,PRECAST,Cable Containment,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23569525,GF.WL.052,PRECAST,Piping,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23570167,GF.WL.049,PRECAST,Duct,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23570261,GF.WL.050,PRECAST,Duct,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23570315,GF.WL.051,PRECAST,Fire,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23570484,GF.WL.047,PRECAST,Piping,BIMMS_OPE'S_WORKSHEET,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23570672,GF.WL.046,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23573554,GF.WL.385,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576216,01.WL.188,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576536,GF.WL.382,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576876,GF.WL.402,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576907,GF.WL.397,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576909,01.WL.196,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576946,GF.WL.392,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23576948,GF.WL.395,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23578024,01.WL.192,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23578026,01.WL.194,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23578305,GF.WL.398,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CE,No,Non-bearing
+23578332,GF.WL.063,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CE,No,Non-bearing
+23578683,GF.WL.066,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CE,No,Non-bearing
+23578858,GF.WL.118,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+23584006,01.WL.158,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23584387,01.WL.159,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23585224,01.WL.160,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23593571,,Floor Box,,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AB,No,Non-bearing
+23594250,,Floor Box,,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23594672,,Floor Box,,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+23597250,01.WL.157,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23597923,GF.WL.330,PRECAST,Duct,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW200_F90AM_S2CB,No,Non-bearing
+23598190,GF.WL.078,PRECAST,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW200_F90AM_S2CB,No,Non-bearing
+23598637,GF.WL.080,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CD,No,Non-bearing
+23599075,GF.WL.406,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CD,No,Non-bearing
+23599235,GF.WL.082,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+23600170,GF.WL.084,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23600210,GF.WL.085,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23600322,GF.WL.044,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23601056,01.WL.148,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23601425,GF.WL.034,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23602918,01.WL.035,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23603476,GF.WL.404,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90AM_M1DD,No,Non-bearing
+23603504,GF.WL.405,PRECAST,Piping,BIMMS_OPE'S_WORKSHEET,21_RHD_bricks_300_F90AM_M1DD,No,Non-bearing
+23604577,GF.WL.389,PRECAST,Duct,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+23604742,GF.WL.117,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+23604951,01.WL.147,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23605337,GF.WL.043,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23605661,01.WL.032,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23605843,GF.WL.032,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23606129,01.WL.036,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23606221,GF.WL.042,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23606602,GF.WL.074,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23606985,01.WL.150,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607346,01.WL.149,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607791,01.WL.152,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607792,01.WL.151,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607839,01.WL.154,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607840,01.WL.153,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607986,01.WL.156,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23607987,01.WL.155,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23611559,,Floor Box,,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+23626214,,,,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23628891,01.SL.093,Floor Pop-up,Piping,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23718697,01.SL.006,Floor Pop-up,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+23729117,01.SL.048,Floor Pop-up,Cable Containment,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23729118,01.SL.049,Floor Pop-up,Cable Containment,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+23755518,,Floor Trench,,BIMMS_OPEs_Precst,22_RHD_Glazing Wall Interior_CW.INT.5.08,No,Non-bearing
+23779200,,Floor Trench,,BIMMS_OPEs_Precst,22_RHD_Glazing Wall Interior_CW.INT.5.08,No,Non-bearing
+23791619,GF.WL.359,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23791725,GF.WL.360,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23791851,GF.WL.361,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23792006,GF.WL.363,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23792078,GF.WL.364,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23792139,GF.WL.365,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23792163,01.WL.223,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23792176,01.WL.224,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23792197,01.WL.225,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23800388,,,,BIMMS_OPEs_Precst,22_RHD_Int gypsum wall GYP NN-CW100_S2AA,No,Non-bearing
+23800406,GF.WL.369,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23800410,GF.WL.355,PRECAST,Other,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23800513,01.SL.131,Floor open,Shaft,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23802407,GF.WL.374,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802409,GF.WL.371,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802412,GF.WL.372,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802413,GF.WL.373,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802422,GF.WL.375,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802516,GF.WL.376,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802518,01.WL.229,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802520,GF.WL.378,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802522,GF.WL.379,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802523,01.WL.228,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802524,GF.WL.381,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23802547,GF.WL.356,PRECAST,Other,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23833327,GF.WL.386,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833328,GF.WL.390,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833329,GF.WL.383,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833400,GF.WL.399,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833401,GF.WL.393,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833402,GF.WL.396,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833416,01.WL.197,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833417,01.WL.193,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833418,01.WL.195,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833442,01.WL.189,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833443,01.WL.191,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23833444,GF.WL.403,PRECAST,Mechanical,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_200_F90A_M1CC,No,Non-bearing
+23847650,GF.WL.168,PLASTBOARD,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23847984,GF.WL.169,PLASTBOARD,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23849090,01.WL.164,PLASTBOARD,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23849122,01.WL.165,PLASTBOARD,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23850694,GF.WL.182,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23850696,GF.WL.183,PLASTBOARD,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23850705,01.WL.182,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23850708,01.WL.175,PRECAST,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23850714,01.WL.177,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23851346,01.WL.183,PRECAST,Cold Water,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23851583,01.WL.181,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23852815,GF.WL.158,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23854161,01.WL.174,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23881840,GF.WL.170,PLASTBOARD,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+23899781,GF.WL.099,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+23984878,01.WL.173,PRECAST,Fire Protection,BIMMS_OPEs_Precst,21_RHD_cellular_concrete_300_F90AM_M1DB,No,Non-bearing
+24007520,GF.WL.185,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AB,No,Non-bearing
+24008213,GF.WL.186,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+24009743,GF.WL.188,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24009750,GF.WL.193,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+24009895,GF.WL.194,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24010635,GF.WL.195,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN_NA_S4AB,No,Non-bearing
+24010734,GF.WL.196,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24010735,GF.WL.197,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24010839,GF.WL.198,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24016251,GF.WL.203,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24016569,GF.WL.204,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24017100,GF.WL.206,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24017454,GF.WL.207,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+24017692,GF.WL.208,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24017693,GF.WL.209,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24018607,GF.WL.211,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24018952,GF.WL.214,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24018995,GF.WL.217,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24019252,GF.WL.215,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24019318,GF.WL.216,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_reinforced_S4BE,No,Non-bearing
+24019614,GF.WL.219,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24020104,GF.WL.222,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24020193,GF.WL.223,Gypsum Board,Drainage Condensate,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24020310,GF.WL.220,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24021022,GF.WL.226,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24021636,GF.WL.230,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24021637,GF.WL.229,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24021710,GF.WL.229,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+24022210,GF.WL.234,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24022419,GF.WL.236,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24022422,GF.WL.235,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24023689,GF.WL.243,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+24025138,GF.WL.253,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24025388,GF.WL.259,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24025484,GF.WL.262,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24026209,GF.WL.264,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24026314,GF.WL.270,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24026382,GF.WL.270,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100_F2AB,No,Non-bearing
+24027668,GF.WL.277,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24027846,GF.WL.279,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24027872,GF.WL.281,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24028390,GF.WL.283,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+24028852,GF.WL.285,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+24028905,GF.WL.286,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+24028981,GF.WL.287,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4CA,No,Non-bearing
+24029551,GF.WL.292,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24029807,GF.WL.294,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24031042,GF.WL.297,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24031076,GF.WL.298,Gypsum Board,Drainage Condensate,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24031267,GF.WL.300,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24031528,GF.WL.301,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24031610,GF.WL.302,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24033151,GF.WL.306,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24033222,GF.WL.307,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BA,No,Non-bearing
+24033425,GF.WL.310,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24033426,GF.WL.308,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24033456,GF.WL.309,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24033519,GF.WL.311,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24033652,GF.WL.312,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_wet area_S4BF,No,Non-bearing
+24034026,GF.WL.314,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24034262,GF.WL.316,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24034505,GF.WL.317,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24034576,GF.WL.320,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24034666,GF.WL.321,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24034801,GF.WL.322,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW100-NN-bulkhead_S4AC,No,Non-bearing
+24034924,GF.WL.323,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+24035448,GF.WL.324,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24035498,GF.WL.325,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24035556,GF.WL.326,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24035591,GF.WL.327,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24037431,GF.WL.328,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24037488,GF.WL.329,Gypsum Board,Plumbing Water,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24037889,GF.WL.331,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24038025,GF.WL.332,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24038099,GF.WL.333,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24038137,GF.WL.334,Gypsum Board,Cable Containment,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BC,No,Non-bearing
+24042126,GF.WL.337,Gypsum Board,Drainage Sewage,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+24042178,GF.WL.338,Gypsum Board,Piping,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_S4BB,No,Non-bearing
+24043006,GF.WL.339,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+24043087,GF.WL.339,Gypsum Board,Duct,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+24043104,GF.WL.340,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+24043154,GF.WL.341,Gypsum Board,Fire,BIMMS_OPEs_Gypsum,22_RHD_Int gypsum wall GYP NN-CW150-NN_NA_F90A_S4BD,No,Non-bearing
+24044303,GF.WL.362,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24044863,GF.WL.184,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24046201,GF.WL.449,PRECAST,Cable Containment,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24046880,01.WL.226,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24046993,01.WL.227,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24047071,01.WL.230,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24047547,01.WL.231,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24048236,01.WL.232,PRECAST,Piping,BIMMS_OPEs_Precst,21_RHD_bricks_300_F90A_M1DC,No,Non-bearing
+24067238,GF.WL.451,Concrete Wall,Cold Water,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24068319,GF.WL.452,Concrete Wall,Fire,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24069453,GF.WL.453,Concrete Wall,Cold Water,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24069455,GF.WL.454,Concrete Wall,Cable Containment,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24069463,GF.WL.455,Concrete Wall,Fire,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24069470,GF.WL.456,Concrete Wall,Cable Containment,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24069537,GF.WL.457,Concrete Wall,Cable Containment,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_M1CB,No,Non-bearing
+24071097,GF.WL.465,Concrete Wall,Cold Water,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24071127,GF.WL.464,Concrete Wall,Cold Water,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24071228,GF.WL.461,Concrete Wall,Cold Water,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24071604,GF.WL.460,Concrete Wall,Cable Containment,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24071880,GF.WL.466,Concrete Wall,Cable Containment,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24072063,GF.WL.467,Concrete Wall,Cable Containment,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24078421,GF.WL.462,Concrete Wall,Duct,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
+24078424,GF.WL.463,Concrete Wall,Duct,BIMMS_OPEs_Gypsum,21_RHD_cellular_concrete_200_F90A_M1CA,No,Non-bearing
